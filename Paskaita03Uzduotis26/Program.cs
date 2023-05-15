@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-
-namespace Paskaita03Uzduotis26
+﻿namespace Paskaita03Uzduotis26
 {
     internal class Program
     {
